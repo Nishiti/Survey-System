@@ -1,0 +1,45 @@
+#fname{
+  font-family: Arial, sans-serif;
+  color: "black";
+  border-radius: 15px;
+  height: 25px;
+ background: #FFFFFF;
+  background: -webkit-linear-gradient(#99E6FF, #FFFFFF);
+  background:    -moz-linear-gradient(#99E6FF, #FFFFFF);
+  background:         linear-gradient(#99E6FF, #FFFFFF);
+}
+#fname:focus{
+  color: "black";
+  font-family: Arial, sans-serif;
+  border-radius: 15px;
+  height: 25px;
+  background: white;
+}
+#btn{
+  font-family: Arial, sans-serif;
+border-radius: 15px;
+background: #000000;
+  background: -webkit-linear-gradient(#000000, #B2B2B2);
+  background:    -moz-linear-gradient(#000000, #B2B2B2);
+  background:         linear-gradient(#000000, #B2B2B2);
+  color: #FFFFFF;
+  height: 40px;
+  width: 90px;
+}
+#lname{
+  color: "black";
+  font-family: Arial, sans-serif;
+  border-radius: 15px;
+  height: 25px;
+background: #FFFFFF;
+  background: -webkit-linear-gradient(#99E6FF, #FFFFFF);
+  background:    -moz-linear-gradient(#99E6FF, #FFFFFF);
+  background:         linear-gradient(#99E6FF, #FFFFFF);
+}
+#lname:focus{
+  color: "black";
+  font-family: Arial, sans-serif;
+  border-radius: 15px;
+  height: 25px;
+  background: white;
+}

@@ -1,0 +1,23 @@
+ #rd{
+      border-radius: 25px;
+    }
+    
+ a{text-decoration: none; font-family: Geneva, sans-serif;}
+    #im{
+        height: 200px;
+        width: 200px;
+    }
+    table{
+        width:100%;
+        border:0px;
+    }
+    td{
+        text-align: center;
+        vertical-align: middle;
+        
+
+    }
+    #sel{
+       
+        font-size: 24px;
+    }
